@@ -1,2 +1,2 @@
 # Language-Logic-Script
-Logic Script UDL Syntax Highlighting for Notepad++
+Logic Script UDL 2.0 Syntax Highlighting for Notepad++
